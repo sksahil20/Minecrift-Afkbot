@@ -1,6 +1,5 @@
 {
 	"ip":"outlineshooter.aternos.me",
 	"port": "33212",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"name": "afkbot1"
 }
